@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "pl.clicksounds.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["KeyboardMixin", "MouseMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
